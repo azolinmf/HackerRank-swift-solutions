@@ -1,5 +1,5 @@
 //  HackerRank tests
-//  Warmup challenges
+//  Array challenges
 //  2D Array
 //  Created by Maria Fernanda Azolin on 28/06/20.
 
