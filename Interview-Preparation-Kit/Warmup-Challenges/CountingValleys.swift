@@ -1,3 +1,10 @@
+//
+//  HackerRank tests
+//  Warmup challenges
+//  Counting Valleys
+//  Created by Maria Fernanda Azolin on 28/06/20.
+//
+
 func countingValleys(n: Int, s: String) -> Int {
 
     var level = 0
