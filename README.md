@@ -1,2 +1,5 @@
 # HackerRank-test-swift
-My solutions in Swift for HackerRank tests 
+![](HackerRank.png)
+
+My solutions in Swift for HackerRank tests.
+
