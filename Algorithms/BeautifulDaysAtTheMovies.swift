@@ -1,4 +1,4 @@
-//the approach for this test was:
+//my approach for this test was:
 //create an array in the range given by the parameters
 //create an array with the reversed pairs of these numbers
 //^used map function to transform the first array here
@@ -6,6 +6,7 @@
 //use filter to find which ones of these matched the condition
 //aka which one was diivisible by k parameter
 
+//also, created an auxiliar function to return a reversed Integer
 
 func beautifulDays(i: Int, j: Int, k: Int) -> Int {
     
