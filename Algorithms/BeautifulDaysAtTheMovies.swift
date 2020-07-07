@@ -25,9 +25,9 @@ func reverseInt(number: Int) -> Int {
     var n = number
     var reversed = 0
     while (n != 0) {
-        reversed = reversed * 10
-        reversed = reversed + n % 10
-        n = n / 10
+        reversed = reversed*10
+        reversed += n%10
+        n = n/10
     }
     return reversed
 }
