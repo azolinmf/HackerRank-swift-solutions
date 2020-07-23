@@ -22,3 +22,9 @@ func hourglassSum(arr: [[Int]]) -> Int {
 
     return sumsArray[sumsArray.count-1]
 }
+
+func sumOfHourGlass(arr: [[Int]], line: Int, column: Int) -> Int {
+    return arr[line][column] + arr[line][column+1] + arr[line][column+2] 
+    + arr[line+1][column+1] 
+    + arr[line+2][column] + arr[line+2][column+1] + arr[line+2][column+2]
+}
