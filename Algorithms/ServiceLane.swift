@@ -1,6 +1,7 @@
 //Disclaimer: this problem was poorly written
 //and the template is kind of wrong
-//as the withds are not passed to the function
+//as the widths are not passed to the function
+
 //To fix it and solve the problem,
 //change the method call and receive width instead of the n parameter
 //so 
